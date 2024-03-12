@@ -8,4 +8,6 @@ Dexter has very bad memory, so he keeps a file named "password.hash" to remember
 
 Humans still find it difficult to get passwords from hashes, so you may find additional files to assist you.
 
+Find the three words from the digests and add a "_" between them to get the password.
+
 Happy hacking!
